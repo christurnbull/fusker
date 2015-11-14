@@ -13,7 +13,7 @@
 		"coffee-script": "*",
 		"mime":"*",
 		"digest":">= 0.0.5",
-		"node-log":"*",
+		"node-log":"git+https://github.com/wearefractal/node-log.git#b843bec9f5ee8ab8763372b43313cecd8db7f738",
 		"async":"*",
 		"xemplar":"*"
 	},
